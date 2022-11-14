@@ -11,7 +11,7 @@ namespace Práctica___Semana_14
 {
 
 
-    public partial class _default
+    public partial class contactenos
     {
     }
 }

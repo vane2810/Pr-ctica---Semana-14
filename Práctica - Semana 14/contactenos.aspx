@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Práctica___Semana_14._default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contactenos.aspx.cs" Inherits="Práctica___Semana_14.contactenos" %>
 
 <!DOCTYPE html>
 
