@@ -71,6 +71,7 @@
     <Content Include="css\styles.css" />
     <Content Include="default.aspx" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\img-fondo.jpg" />
     <Content Include="informacion.html" />
     <Content Include="js\functions.js" />
     <Content Include="Web.config" />
