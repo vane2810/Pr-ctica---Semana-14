@@ -6,7 +6,7 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="shurcut icon" href="img/favicon.ico"/>
-    <title>  </title>
+    <title> Contàctenos </title>
 
     <link rel="stylesheet"href="css/styles.css" />
 </head>
